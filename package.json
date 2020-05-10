@@ -1,0 +1,36 @@
+{
+    "name": "vscode-fall-theme",
+    "displayName": "Fall Theme",
+    "description": "Simple dark theme",
+    "version": "0.0.1",
+    "publisher": "alexesprit",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme",
+        "customization"
+    ],
+    "icon": "resources/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexesprit/vscode-fall-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/alexesprit/vscode-fall-theme/issues"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fall Theme",
+                "uiTheme": "vs-dark",
+                "path": "./resources/fall.color-theme.json"
+            }
+        ]
+    }
+}
