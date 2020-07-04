@@ -2,7 +2,7 @@
     "name": "vscode-fall-theme",
     "displayName": "Fall Theme",
     "description": "Simple dark theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "alexesprit",
     "license": "MIT",
     "engines": {
